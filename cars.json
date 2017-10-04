@@ -1,0 +1,35 @@
+{
+	events:
+	[
+		{
+			"name":"Audi A3",
+			"color":"white",
+			"top speed":"250 km/h",
+			"price":"€29,810"
+		}
+		{
+			"name":"BMW i8",
+			"color":"blue",
+			"top speed":"250 km/h",
+			"price":"€144,395"
+		}
+		{
+			"name":"Renault Clio",
+			"color":"white",
+			"top speed":"235 km/h",
+			"price":"€15,990"
+		}
+		{
+			"name":"Volkswagen Golf",
+			"color":"blue",
+			"top speed":"245 km/h",
+			"price":"€38,795"
+		}
+		{
+			"name":"Skoda Octavia",
+			"color":"dark grey",
+			"top speed":"231 km/h",
+			"price":"€24,700"
+		}
+	]
+}
